@@ -1,0 +1,49 @@
+.header, header {
+    background: #501c0c!important;
+}
+
+header nav ul li:hover {
+    background: rgba(255, 255, 255, 0.7);
+    color: #501c0c!important;
+}
+
+header nav ul li:hover > p {
+    color: #501c0c!important;
+}
+
+::selection {
+    background: #501c0c!important;
+    color: #fff!important;
+}
+
+.h1, h1 {
+    color: #501c0c!important;
+}
+
+.navmenu {
+    color: #501c0c!important;
+}
+.navmenu ul > li:hover {
+    background: #501c0c!important;
+}
+
+ul.tabs{border-bottom:1px solid #501c0c}
+ul.tabs li a:active{color:#501c0c80;border-bottom:4px solid #501c0c80}
+ul.tabs li.current a{color:#501c0c;border-bottom:4px solid #501c0c}
+
+button.color{background:#501c0c;color:#fff;font-weight:bold;padding:10px;font-size:16px}
+button.color:hover{background:#fff;color:#501c0c}
+
+h2.color{color:#501c0c}
+h3.color{color:#501c0c}
+h4.color{color:#501c0c}
+h5.color{color:#501c0c}
+h6.color{color:#501c0c}
+
+.badge.color{background-color:#501c0c}
+
+p.color{color:#501c0c}
+
+span.color{color:#501c0c}
+
+.footer,footer{background:#501c0c}
